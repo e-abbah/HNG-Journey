@@ -37,7 +37,7 @@ Axios
 🧑‍💻 Author
 
 Emmanuel Abbah
-📧 emmanuel.abbah@gmail.com
+📧 emmanuel.abbah93@gmail.com
 
 🐾 API Reference
 Cat Facts API
